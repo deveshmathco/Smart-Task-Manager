@@ -1,4 +1,8 @@
 # Smart Task Manager
+![screencapture-localhost-8080-2025-04-07-11_22_47](https://github.com/user-attachments/assets/ef30b6ce-345f-477a-b68f-72152f4f8b18)
+![screencapture-localhost-8000-docs-2025-04-07-11_23_57](https://github.com/user-attachments/assets/dba316d4-8b60-47fb-9429-baa6d666725f)
+![screencapture-localhost-8001-docs-2025-04-07-11_23_43](https://github.com/user-attachments/assets/ccbed84e-e13d-4344-af8f-8d908a7071c7)
+
 
 A full-stack task management application with a FastAPI backend and a modern HTML/CSS/JavaScript frontend.
 
